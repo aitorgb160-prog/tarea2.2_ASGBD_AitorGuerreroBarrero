@@ -4,7 +4,7 @@ Para esta práctica, tendremos que tener una máquina virtual con estas caracter
 ![almacenamiento](img/disco.png)
 ## 1. Desplegar Oracle Database 23ai Free con Podman
 En primer lugar instalaremos Podman y descargaremos la imagen, Oracle Database se ejecuta en un contenedor administrado con Podman.
-![podman](img/podman)
-![contenedor](img/contenedor)
+![podman](/img/podman)
+![contenedor](/img/contenedor)
 Comprobamos que se ha instalado correctamente:
 
