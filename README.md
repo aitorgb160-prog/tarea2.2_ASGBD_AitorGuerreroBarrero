@@ -12,7 +12,7 @@ Comprobamos que se ha instalado correctamente:
 ![version](img/version.png)  
 ---
 ## 2. Creación del volumen y del contenedor
-Creamos un volumen con nombre para conservar los datos de Oracle aunque se detenga o se recree el contenedor:
+Creamos un volumen con nombre para conservar los datos de Oracle aunque se detenga o se recree el contenedor:  
 ![volumen](img/creacion_vol.png)  
 A continuación, creamos el contenedor y publicamos el puerto TCP 1521:
 ![container](img/container.png)  
